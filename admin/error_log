@@ -1,0 +1,1 @@
+[07-Dec-2011 08:31:38] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/ideal/public_html/app/lib/class-functions.php on line 1148

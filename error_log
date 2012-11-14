@@ -1,0 +1,25 @@
+[25-Nov-2011 22:16:04] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/asad/public_html/blogs/iNettuts_rpc.php on line 35
+[25-Nov-2011 22:16:08] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/asad/public_html/blogs/iNettuts_rpc.php on line 25
+[25-Nov-2011 22:16:42] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/asad/public_html/blogs/iNettuts_rpc.php on line 35
+[25-Nov-2011 22:16:45] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/asad/public_html/blogs/iNettuts_rpc.php on line 25
+[25-Nov-2011 22:16:47] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/asad/public_html/blogs/iNettuts_rpc.php on line 25
+[25-Nov-2011 22:16:51] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/asad/public_html/blogs/iNettuts_rpc.php on line 25
+[25-Nov-2011 22:16:53] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/asad/public_html/blogs/iNettuts_rpc.php on line 35
+[25-Nov-2011 22:17:02] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/asad/public_html/blogs/iNettuts_rpc.php on line 25
+[25-Nov-2011 22:17:09] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/asad/public_html/blogs/iNettuts_rpc.php on line 35
+[25-Nov-2011 22:18:34] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/asad/public_html/blogs/iNettuts_rpc.php on line 35
+[25-Nov-2011 22:19:10] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/asad/public_html/blogs/iNettuts_rpc.php on line 35
+[25-Nov-2011 22:20:07] PHP Warning:  mysql_fetch_row(): supplied argument is not a valid MySQL result resource in /home/asad/public_html/blogs/iNettuts_rpc.php on line 35
+[29-Nov-2011 01:12:58] PHP Fatal error:  Call to a member function ResultSet() on a non-object in /home/ideal/public_html/app/homecontent.php on line 49
+[29-Nov-2011 01:25:11] PHP Warning:  require_once(lib/opencon.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/ideal/public_html/app/include.php on line 4
+[29-Nov-2011 01:25:11] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'lib/opencon.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ideal/public_html/app/include.php on line 4
+[20-Jan-2012 00:16:55] PHP Parse error:  syntax error, unexpected $end in /home/ideal/public_html/app/header.php on line 32
+[20-Jan-2012 00:17:46] PHP Parse error:  syntax error, unexpected $end in /home/ideal/public_html/app/header.php on line 49
+[20-Jan-2012 00:21:16] PHP Parse error:  syntax error, unexpected $end in /home/ideal/public_html/app/header.php on line 52
+[02-Mar-2012 08:26:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'ideal_app_live'@'localhost' (using password: YES) in /home/ideal/public_html/lib/opencon.php on line 6
+[02-Mar-2012 08:27:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'ideal_app_live'@'localhost' (using password: YES) in /home/ideal/public_html/lib/opencon.php on line 6
+[22-May-2012 23:40:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/ideal/public_html/signup-trial.php:1) in /home/ideal/public_html/include.php on line 3
+[22-May-2012 23:41:19] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/ideal/public_html/signup-trial.php:1) in /home/ideal/public_html/include.php on line 3
+[22-May-2012 23:41:30] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/ideal/public_html/signup-trial.php:1) in /home/ideal/public_html/include.php on line 3
+[22-May-2012 23:43:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/ideal/public_html/signup-trial.php:1) in /home/ideal/public_html/include.php on line 3
+[22-May-2012 23:46:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/ideal/public_html/signup-trial.php:1) in /home/ideal/public_html/include.php on line 3

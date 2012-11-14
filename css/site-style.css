@@ -1,0 +1,55 @@
+p {
+	font-size: 14px;
+	line-height: 22px;
+}
+
+h1 {
+	font-size: 2em;
+	font-family:adelle, Serif;
+	text-shadow: 0 1px 1px #FFF;
+}
+h2 {
+	color: #272727;
+	font-size: 1.75em;
+	font-family:adelle, Serif;
+	text-shadow: 0 1px 1px #FFF;
+}
+h3 {
+	font-size: 1.15em;
+	font-family:adelle, Serif;
+}
+h4 {
+	font-size: 1em;
+	font-family:adelle, Serif;
+}
+
+/* Homepage */
+
+.hero-img {
+	background: url(/img/hero.png) no-repeat top center;
+	height: 317px;
+	margin-bottom: 35px;
+}
+
+.hero-unit {
+	background-color: transparent;
+	margin-bottom: 10px;
+	padding: 60px 60px 0px 60px;
+}
+
+.hero-unit h1 {
+	font-size:  50px;
+	letter-spacing: 0px;
+}
+
+.register-home {
+	background: #FFF;
+	padding-top: 15px;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	text-align: center;
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.05);
+	-moz-box-shadow: 0px 0px 5px rgba(0,0,0,0.05);
+	-webkit-box-shadow: 0px 0px 5px rgba(0,0,0,0.05);
+}

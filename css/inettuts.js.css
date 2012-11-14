@@ -1,0 +1,82 @@
+/* JS-Enabled CSS */
+
+.widget-head a.remove  {
+    float: right;
+    display: inline;
+    background: url(../img/delete-icon.png) no-repeat;
+    text-indent: -9999em;
+    width: 12px;
+    height: 12px;
+}
+
+.widget-head a.edit  {
+    float: right;
+    display: inline;
+    background: url(../img/edit-icon.png) no-repeat;
+    text-indent: -9999em;
+    width: 13px;
+    height: 12px;
+    margin-right: 5px;
+}
+
+.widget-head a.collapse  {
+    background: url("../img/info-icon.png") no-repeat scroll 0 0 transparent;
+    display: inline;
+    float: right;
+    height: 12px;
+    margin-right: 5px;
+    text-indent: -9999em;
+    width: 12px;
+}
+
+.collapsed .widget-head a.collapse {}
+.collapsed .widget-content {display:none !important;}
+
+.widget-placeholder { border: 2px dashed #999; list-style-type: none;}
+#column1 .widget-placeholder { margin: 30px 35px 0 25px; }
+#column2 .widget-placeholder { margin: 30px 20px 0 20px; }
+#column3 .widget-placeholder { margin: 30px 25px 0 35px; }
+
+.edit-box {
+    overflow: hidden;
+    background: #333;
+    margin-bottom: 2px;
+    padding: 10px;
+}
+
+.edit-box ul {
+	margin: 0;
+}
+
+.edit-box li.item {
+    padding: 10px 0;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    clear: both;
+}
+
+
+.edit-box label {
+    float: left;
+    color: #FFF;
+    padding: 0;
+    text-align: left;
+    width: 100px;
+    text-shadow: 0 1px #333;
+}
+
+.edit-box ul.colors li {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #EEE;
+    float: left;
+    display: inline;
+    margin: 0 5px 0 0;
+    cursor: pointer;
+    padding: 0;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+}
+
